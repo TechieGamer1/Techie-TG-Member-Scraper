@@ -9,8 +9,6 @@
 
 - Then, scrape and add members using `add.py`
 
-<b> For full tutorial, refer to <a href='https://github.com/saifalisew1508/Telegram-Members-Adder/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
-
 <h2 align="center">Features ♨️</h2>
 
 - No need of API Id and API hash- It requires only phone numbers
