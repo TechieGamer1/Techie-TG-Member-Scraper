@@ -35,7 +35,7 @@ def banner():
         print(f'{random.choice(colors)}{char}{n}')
     #print('=============SON OF SAIF==============')
     print(f' Version: latest | Telegram Handler: @TechieGamer{n}\n')
-    print(f' Instagram: Gamez_Slayer_2.0\n')
+    print(f' Telegram - @TechieGamer\n')
 
 def clr():
     if os.name == 'nt':
