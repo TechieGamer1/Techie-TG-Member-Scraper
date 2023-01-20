@@ -1,7 +1,7 @@
 '''
-================SAIFALISEW1508=====================
+================@TechieGamer=====================
 Telegram members adding script
-Coded by a kid- github.com/saifalisew1508
+Coded by a github.com/TechieGamer1
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
@@ -56,8 +56,8 @@ def banner():
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
-    #print('=============SAIFALISEW1508==============')
-    print(f'{lg}Version: {w}latest{lg} | Author: {w}saifalisew1508{rs}')
+    #print('=============@TechieGamer==============')
+    print(f'{lg}Version: {w}latest{lg} | Author: {w}@TechieGamer{rs}')
 
 
 # function to clear screen
