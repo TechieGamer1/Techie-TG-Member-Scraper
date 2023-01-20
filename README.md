@@ -80,14 +80,3 @@ python add.py
 
 <h3 align="center">Visitors Counts👀</h3>
 <a href="https://github.com/saifalisew1508/Telegram-Members-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=rule34" /></a>
-
-### Contribution
-- Fork this repo.
-- Add new features.
-- Create a new pull request for this branch.
-
-<h1 align="center">⚠️WARNING⚠️</h1>
-
-> Disclaimer⚠️  Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool
-
-> Scam Alert⚠️  Some scammers are selling this free script in paid and scamming people's for make money. You don't need to pay anyone for any script, if you want any script in free of cost, you can message me on Whatsapp, Telegram, Instagram and Gmail which mentioned on my git profile</samp></p>
