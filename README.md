@@ -70,13 +70,6 @@ Aur then Adding Members By using
 python add.py
 ```
 
-
-<h3l2 align="center">Screenshot 📱</h2>
-<p align='center'><img src='https://te.legra.ph/file/f0c555b284160fafc6dca.jpg' width='245' height='525'></p>
-
 <h3 align="center">Support</h3>
 <a href="https://t.me/TechieGamer"><img src="https://img.shields.io/badge/Contact%20Owner-pink.svg?logo=Telegram"></a>
 <a href="https://t.me/TechieGamer"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue.svg?logo=telegram"></a>
-
-<h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/saifalisew1508/Telegram-Members-Adder"><img alt="Cute Count" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=rule34" /></a>
