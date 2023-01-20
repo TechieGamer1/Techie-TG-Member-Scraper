@@ -1,6 +1,3 @@
-<h1 align="center">SCRAPPER TOOL</h1>
-
-- Group To Group Telegram Members Scraping and Adding Toolkit
 
 - Make Sure in your Target Group Less Than 2.5k Members 
 
