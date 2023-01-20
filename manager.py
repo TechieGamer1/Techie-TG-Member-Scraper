@@ -34,8 +34,8 @@ def banner():
     for char in b:
         print(f'{random.choice(colors)}{char}{n}')
     #print('=============SON OF SAIF==============')
-    print(f' Version: latest | Telegram Handler: @saifalisew1508{n}\n')
-    print(f' WhatsApp: +919708973259 | Instagram: saifalisew1508\n')
+    print(f' Version: latest | Telegram Handler: @TechieGamer{n}\n')
+    print(f' Instagram: Gamez_Slayer_2.0\n')
 
 def clr():
     if os.name == 'nt':
